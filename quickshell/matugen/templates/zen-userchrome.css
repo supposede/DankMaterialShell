@@ -31,7 +31,7 @@
 }
 
 #TabsToolbar {
-  background-color: {{colors.background.default.hex}} !important;
+  background-color: transparent !important;
 }
 
 .urlbar-background {
