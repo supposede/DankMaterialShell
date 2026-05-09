@@ -121,3 +121,4 @@ toolbar .toolbarbutton-1 {
 toolbar .toolbarbutton-1 > .toolbarbutton-icon {
   fill: {{colors.primary.default.hex}} !important;
 }
+
